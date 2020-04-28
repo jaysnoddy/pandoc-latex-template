@@ -1,9 +1,8 @@
 ---
-title: "Example PDF"
-author: [Author]
+title: "A Test for a Book"
+author: An Author
 date: "2017-02-20"
-subject: "Markdown"
-keywords: [Markdown, Example]
+subject: "A TEST for outputting a book"
 book: true
 classoption: [oneside]
 ...
@@ -11,6 +10,8 @@ classoption: [oneside]
 # Crinis mixtaque factisque ille
 
 ## Aut nunc furori ad latarumque Philomela
+
+**Add and test other features, as needed**
 
 Lorem markdownum includite volenti monticolae videre vocem hac sparsit puta
 gelidis vestros egressus sex. Undis eris per auguris armis. Est saevior pater.

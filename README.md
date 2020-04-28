@@ -1,5 +1,10 @@
 <img src="icon.png" align="right" height="110"/>
 
+**Note Well**:
+just some very trivial additions for my use.
+Use the original!
+--jrs
+
 # Eisvogel
 
 [![Build Status](https://travis-ci.org/Wandmalfarbe/pandoc-latex-template.svg?branch=master)](https://travis-ci.org/Wandmalfarbe/pandoc-latex-template)
